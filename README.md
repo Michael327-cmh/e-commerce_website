@@ -1,9 +1,6 @@
 # e-commerce_website
 This project utilizes Express.js, Sequelize and MySQL database to deploy the information. 
 
-
-# 13 Object-Relational Mapping (ORM): E-Commerce Back End
-
 ## Grading Requirements
 
 This homework is graded based on the following criteria: 
